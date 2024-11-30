@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98245961645",
+    "project_id": "sustainify-d2cec",
+    "storage_bucket": "sustainify-d2cec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98245961645:android:7e2bf69b09f6a401aa2324",
+        "android_client_info": {
+          "package_name": "com.sustain.sustanify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUALkzjJTn6ES46qj1QXzu9aWlYTvf_PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

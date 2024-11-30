@@ -1,0 +1,86 @@
+[
+  {
+    "courseId": 1,
+    "lessonId": "101",
+    "title": "Introduction to Sustainability",
+    "description": "Understand the basic principles of sustainability and why it is crucial for our planet's future.",
+    "content": "Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It encompasses environmental, economic, and social dimensions, emphasizing a balance between human development and the Earth's finite resources. Key historical milestones, such as the Brundtland Report and Agenda 21, have shaped the modern understanding of sustainability.\n\nThis lesson also explores real-world applications of sustainability, from energy-efficient urban planning to resource management in agriculture. By examining success stories and challenges faced by communities globally, students will gain a comprehensive view of how sustainability impacts daily life and long-term planetary health.",
+    "duration": "2 hours",
+    "difficultyLevel": "Beginner",
+    "topics": ["Definition of Sustainability", "Why Sustainability Matters", "Examples of Sustainable Practices"],
+    "resources": [
+      { "type": "Video", "url": "https://youtu.be/5bVDpmzMICE?si=YSm00wv40M0_bADj" },
+      { "type": "Article", "url": "https://talema.com/introduction-to-sustainability/#:~:text=What%20is%20Sustainability%3F,as%20the%20father%20of%20sustainability." }
+    ]
+  },
+  {
+    "courseId": 2,
+    "lessonId": "102",
+    "title": "The Impacts of Climate Change",
+    "description": "Explore how climate change affects the environment, human health, and global economies.",
+    "content": "Climate change, primarily driven by human activities such as burning fossil fuels and deforestation, is causing significant disruptions to Earth's ecosystems. Rising global temperatures have led to melting polar ice caps, more frequent extreme weather events, and shifting habitats for various species. The socioeconomic impacts, including increased healthcare costs and damage to infrastructure, are becoming harder to ignore.\n\nThis lesson delves into the role of international agreements like the Paris Accord in combating climate change. It highlights innovative solutions, such as carbon capture technology and renewable energy transitions, offering hope for a sustainable future. Students will also learn how individual and collective actions can make a difference.",
+    "duration": "3 hours",
+    "difficultyLevel": "Intermediate",
+    "topics": ["Causes of Climate Change", "Effects on Ecosystems", "Human and Economic Impacts"],
+    "resources": [
+      { "type": "Article", "url": "https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts" },
+      { "type": "Video", "url": "https://youtu.be/G4H1N_yXBiA?si=_Lwjb96D7DrPLBTe" }
+    ]
+  },
+  {
+    "courseId": 3,
+    "lessonId": "103",
+    "title": "Renewable Energy Solutions",
+    "description": "Learn about renewable energy sources and how they contribute to a sustainable future.",
+    "content": "Renewable energy sources, such as solar, wind, and hydropower, are revolutionizing the way the world generates electricity. By harnessing natural resources that are constantly replenished, these technologies reduce greenhouse gas emissions and dependence on fossil fuels. Countries like Germany and Iceland have set global benchmarks by adopting extensive renewable energy systems.\n\nThis lesson also explores the challenges of integrating renewable energy into existing grids, including storage and transmission issues. By understanding policies and subsidies that encourage innovation, students will gain insight into how governments and businesses can drive the adoption of clean energy solutions.",
+    "duration": "2.5 hours",
+    "difficultyLevel": "Beginner",
+    "topics": ["Solar Energy", "Wind Power", "Hydropower"],
+    "resources": [
+      { "type": "Video", "url": "https://youtu.be/UVf2Yw7uFoE?si=zadaHm13g4LnWBcS" },
+      { "type": "Article", "url": "https://www.energy.gov/energysaver/residential-renewable-energy" }
+    ]
+  },
+  {
+    "courseId": 4,
+    "lessonId": "104",
+    "title": "Sustainable Agriculture Practices",
+    "description": "Discover ways to practice agriculture that conserves resources and protects the environment.",
+    "content": "Sustainable agriculture practices aim to balance the demand for food production with the need to protect the environment. Techniques like crop rotation and organic farming enhance soil fertility, reduce pesticide use, and conserve water resources. Successful case studies from regions like Sub-Saharan Africa and Southeast Asia highlight the potential of sustainable agriculture to combat food insecurity.\n\nThis lesson also covers advanced methods such as precision farming and agroforestry, which integrate technology and biodiversity into traditional agricultural systems. By learning about these practices, students will understand how sustainability can be achieved in one of the most resource-intensive industries.",
+    "duration": "3.5 hours",
+    "difficultyLevel": "Intermediate",
+    "topics": ["Crop Rotation", "Organic Farming", "Soil and Water Conservation"],
+    "resources": [
+      { "type": "Video", "url": "https://youtu.be/iloAQmroRK0?si=OMTlvmqtQF51mSGJ" },
+      { "type": "Guide", "url": "https://www.sciencedirect.com/science/article/pii/S266615432200179X" }
+    ]
+  },
+  {
+    "courseId": 5,
+    "lessonId": "105",
+    "title": "The Circular Economy",
+    "description": "Understand the concept of a circular economy and how it reduces waste.",
+    "content": "The circular economy is a transformative model that seeks to eliminate waste by designing products and systems for reuse and recycling. Unlike traditional linear models, circular systems focus on keeping resources in use for as long as possible. Industries such as fashion and electronics are adopting circular principles to reduce their environmental footprint.\n\nThis lesson examines real-world applications of circular practices, from upcycling in manufacturing to bio-based materials in packaging. Students will also explore the economic and regulatory challenges in transitioning to a circular economy and how innovation is overcoming these barriers.",
+    "duration": "1.5 hours",
+    "difficultyLevel": "Advanced",
+    "topics": ["Recycling", "Reusing Resources", "Sustainable Production"],
+    "resources": [
+      { "type": "Video", "url": "https://youtu.be/__0Spwj8DkM?si=KnQN5T_Wq_S-KjJh" },
+      { "type": "Ebook", "url": "https://connect.sustainalytics.com/scs-ebook-the-circular-economy" }
+    ]
+  },
+  {
+    "courseId": 6,
+    "lessonId": "106",
+    "title": "Waste Management Strategies",
+    "description": "Learn about effective waste management strategies for households and industries.",
+    "content": "Effective waste management strategies aim to minimize environmental impact while promoting sustainability. Practices like composting, recycling, and waste-to-energy conversion are essential components of modern waste management. Cities like San Francisco and Singapore have implemented zero-waste initiatives that serve as global models.\n\nThis lesson highlights the importance of behavioral changes, policy support, and technological innovation in addressing the growing waste crisis. Students will learn about the role of education and awareness campaigns in encouraging communities and industries to adopt sustainable waste management practices.",
+    "duration": "2 hours",
+    "difficultyLevel": "Beginner",
+    "topics": ["Reduce, Reuse, Recycle", "Composting", "Zero-Waste Living"],
+    "resources": [
+      { "type": "Article", "url": "https://courses.lumenlearning.com/suny-monroe-environmentalbiology/chapter/15-2-waste-management-strategies/" },
+      { "type": "Workshop", "url": "https://youtu.be/r-q5V6LDxEY?si=VqXh5jLpXCCotlvI" }
+    ]
+  }
+]
