@@ -59,3 +59,5 @@ Step 2 Install Dependencies Run the following command to fetch the required depe
 Step 3 Run the App To start the app on an emulator or physical device, use: flutter run
 
 Step 4 Navigating Between Pages Sustainify uses named routes for navigation. Pages are organized in separate files for better structure.
+
+APK download: (https://www.dropbox.com/scl/fi/amcuypbewa861iclmc8da/app-release.apk?rlkey=byxomx7ailb6ufsmzc6y16k4l&st=fhhx7dw9&dl=0)
