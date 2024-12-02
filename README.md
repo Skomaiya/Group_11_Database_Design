@@ -30,6 +30,8 @@ Personalized Learning Experience: Track progress with personalized profiles and 
 
 Resource Library: Access articles, videos, infographics, and D.I.Y. guides for sustainable practices.
 
+Firestore database: To store user data and information as well as student discussion information, and help with authentication and login processes.
+
 Competitor Analysis Sustainify differentiates itself from competitors by emphasizing:
 
 Public Awareness and Outreach
