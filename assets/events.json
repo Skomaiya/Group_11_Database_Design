@@ -1,0 +1,35 @@
+[
+    {
+      "eventId": 1,
+      "title": "John Doe Masterclass on Renewable Energy",
+      "description": "An in-depth session on renewable energy technologies and their impact on sustainability. Explore real-world applications, challenges, and innovations.",
+      "location": "National Museum of Climate Emphasis",
+      "date": "Today",
+      "time": "10:00 am - 2:00 pm"
+    },
+    {
+      "eventId": 2,
+      "title": "Workshop on Circular Economy",
+      "description": "Discover how the circular economy model is reshaping industries by minimizing waste and maximizing resource efficiency.",
+      "location": "Innovation Hub, Downtown",
+      "date": "Tomorrow",
+      "time": "1:00 pm - 4:00 pm"
+    },
+    {
+      "eventId": 3,
+      "title": "Sustainability and Agriculture",
+      "description": "Learn about sustainable farming techniques and how they contribute to environmental conservation.",
+      "location": "Green Fields Auditorium",
+      "date": "Next Week",
+      "time": "9:00 am - 12:00 pm"
+    },
+    {
+      "eventId": 4,
+      "title": "Climate Change Awareness Drive",
+      "description": "Join us in spreading awareness about climate change and the steps we can take to mitigate its effects.",
+      "location": "City Park",
+      "date": "Next Month",
+      "time": "3:00 pm - 5:00 pm"
+    }
+  ]
+  
